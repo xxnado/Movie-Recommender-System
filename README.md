@@ -1,4 +1,4 @@
-# Movie-Recommendation-System
+# Movie-Recommender-System
 
 ## Overview
 In our Master's program in "Business Analytics" at Nova School of Business and Economics, a group of five students, including myself, worked on a class project for our "Machine Learning" course. Our task was to develop a movie recommendation system using a Kaggle dataset (https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/code?datasetId=3405&sortBy=voteCount) that contains movie ratings.Recommendation systems are crucial today for enhancing user experience and engagement. They offer personalized suggestions, boosting satisfaction and retention while driving sales and loyalty across digital platforms like e-commerce and streaming services.
