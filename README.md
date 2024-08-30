@@ -40,7 +40,7 @@ jupyter notebook
 
 2. Run the notebooks `Part1_Master_Notebook.ipynb` and `Part1_Master_Notebook.ipynb` to see the implementation and results of the project.
 
-## Creators
+## Authors
 Students that developed this project:
 - Leonardo Heinemann
 - Gilian Wagner
