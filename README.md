@@ -1,6 +1,6 @@
-# Movie-Recommender-System
+# Movie Recommender System
 
-## Overview
+## Intro
 In our Master's program in "Business Analytics" at Nova School of Business and Economics, a group of five students, including myself, worked on a class project for our "Machine Learning" course. Our task was to develop a movie recommendation system using a Kaggle dataset (https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/code?datasetId=3405&sortBy=voteCount) that contains movie ratings.Recommendation systems are crucial today for enhancing user experience and engagement. They offer personalized suggestions, boosting satisfaction and retention while driving sales and loyalty across digital platforms like e-commerce and streaming services.
 
 
@@ -19,7 +19,7 @@ The directory where the data files from Kaggle should be placed.
 **notebooks:**
 This includes the Master Notebooks from both parts of the project.
 
-## Usage
+## How to Use
 **Installation:**
 1. Clone the repository:
 ```sh
@@ -40,7 +40,7 @@ jupyter notebook
 
 2. Run the notebooks `Part1_Master_Notebook.ipynb` and `Part1_Master_Notebook.ipynb` to see the implementation and results of the project.
 
-## About
+## Creators
 Students that developed this project:
 - Leonardo Heinemann
 - Gilian Wagner
