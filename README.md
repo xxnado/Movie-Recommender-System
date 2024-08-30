@@ -8,9 +8,9 @@ The project had two phases: the first involved traditional Machine Learning tech
 - Content-Based Recommender Systems provide immediate personalization since they do not require ratings to begin generating recommendations. This makes them particularly robust and effective at mitigating the cold start problem. Ultimately, we integrated **Word2Vec text embeddings with BERT-based sentiment analysis**, achieving a **precision of 80.74%**, meaning that out of 10 suggested movies, at least 8 are relevant for the user.
 - Additionally, we implemented a Collaborative Filtering model that leverages user behavior and interactions to suggest movies liked by similar users, further enhancing personalization and relevance. For this, we used a **Neural Collaborative Filtering (NCF)** model, which combines Generalized Matrix Factorization and Multi-Layer Perceptron to learn complex user-item interactions. This model achieved a **precision of 98.39%** and an **RMSE of 1.05** (on a rating scale of 0.5 to 5).
 
-[Content Based Models - Overview](graphs/Content_Based_Models_Overview.png)
+[Content Based Models - Overview](additionalContent/Content_Based_Models_Overview.png)
 
-[Collaboreative Filtering Models - Overview](graphs/Collaborative_Filtering_Models_Overview.png)
+[Collaboreative Filtering Models - Overview](additionalContent/Collaborative_Filtering_Models_Overview.png)
 
 ## Repository Structure
 **data:**
