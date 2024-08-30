@@ -1,7 +1,7 @@
 # Movie Recommender System
 
 ## Overview
-In our Master's program in "Business Analytics" at Nova School of Business and Economics, a group of five students, including myself, worked on a class project for our "Machine Learning" course. We developed a movie recommendation system using a Kaggle dataset with Metadata on over 45,000 movies and 26 million ratings from over 270,000 users:
+In our Business Analytics Master's program at Nova School of Business and Economics, my team and I completed a class project for our "Machine Learning" course. We developed a movie recommendation system using a Kaggle dataset with Metadata on over 45,000 movies and 26 million ratings from over 270,000 users:
 
 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/code?datasetId=3405&sortBy=voteCount
 
