@@ -44,9 +44,9 @@ jupyter notebook
 2. Run the notebooks `Part1_Master_Notebook.ipynb` and `Part1_Master_Notebook.ipynb`.
 
 ## Authors
-Students that developed this project:
-- Leonardo Heinemann
+Students who developed this project (in alphabetical order):
+- Benedikt Tremmel
 - Gilian Wagner
+- Leonardo Heinemann
 - Malte Haupt
 - Maximilian Schön
-- Benedikt Tremmel
