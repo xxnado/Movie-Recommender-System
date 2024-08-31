@@ -1,11 +1,11 @@
 # Movie Recommender System
 
 ## Overview
-This project was developed as a class project for the "Machine Learning" course at Nova School of Business and Economics. The movie recommendation system uses a Kaggle dataset with Metadata on over 45,000 movies and 26 million ratings from over 270,000 users:
+This project was developed as a class project for the "Machine Learning" course at Nova School of Business and Economics. The project involves movie recommendation systems, built on a Kaggle dataset with Metadata on over 45,000 movies and 26 million ratings from over 270,000 users:
 
 https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/code?datasetId=3405&sortBy=voteCount
 
-Recommendation systems are crucial for enhancing user experience and engagement. They offer personalized suggestions, boosting satisfaction and retention while driving sales and loyalty across digital platforms like streaming services. In our case, we developed recommender systems for a fictional customer to simulate a real-world scenario.
+Recommendation systems are crucial for enhancing user experience and engagement. They offer personalized suggestions, boosting satisfaction and retention while driving sales and loyalty across digital platforms like streaming services. In our case, the recommender system was developed for a fictional customer to simulate a real-world scenario.
 
 The project had two phases: the first involved traditional Machine Learning techniques, while the second focused on enhancing our recommendation system with Deep Learning methods. After testing several models, we combined Content-Based and Collaborative Filtering techniques to maximize the relevance of our recommendations:
 - Content-Based Recommender Systems provide immediate personalization since they do not require ratings to begin generating recommendations. This makes them particularly robust and effective at mitigating the cold start problem. Ultimately, we integrated **Word2Vec text embeddings with BERT-based sentiment analysis**, achieving a **precision of 80.74%**, meaning that out of 10 suggested movies, at least 8 are relevant for the user.
