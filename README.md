@@ -34,7 +34,7 @@ This includes the Notebooks from both parts of the project.
 ```
 3. Download the dataset from Kaggle and put it in the `data/` directory.
 
-4. Run the Jupyter notebooks `Part1_Master_Notebook.ipynb` and `Part1_Master_Notebook.ipynb`.
+4. Run the Jupyter notebooks `Part1_Master_Notebook.ipynb` and `Part2_Master_Notebook.ipynb`.
 
 ## Authors
 Students who developed this project (in alphabetical order):
