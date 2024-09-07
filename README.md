@@ -23,7 +23,6 @@ The directory where the Kaggle data files should be placed.
 This includes the Notebooks from both parts of the project.
 
 ## How to Use
-**Installation:**
 1. Clone the repository:
 ```sh
     git clone https://github.com/xxnado/Movie-Recommender-System.git 
