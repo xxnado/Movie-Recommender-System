@@ -26,7 +26,7 @@ This includes the Notebooks from both parts of the project.
 1. Clone the repository:
 ```sh
     git clone https://github.com/xxnado/Movie-Recommender-System.git 
-    cd Movie-Recommendation-System
+    cd Movie-Recommender-System
 ```
 2. Install the required libraries:
 ```sh
